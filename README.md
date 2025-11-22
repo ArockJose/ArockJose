@@ -13,11 +13,12 @@
 #### 🎯 What I’m Currently Doing
 #### 📘 Improving my skills in Automation (Java + Selenium)<br />🔍 Practicing SQL and API testing<br/>💼 Preparing for interviews in QA / Testing roles
 
-# 📫 Connect With Me:
+## 📫 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arock-jose-selvakumar-john-1b69b81aa/)
 
-# 🧰 Hands-On With These Tools
+## 🧰 Hands-On With These Tools
 ![JIRA](https://images.icon-icons.com/2699/PNG/96/atlassian_jira_logo_icon_170512.png)
+![X-Ray](https://logo.svgcdn.com/logos/xray-for-jira.png)
 
 ## 📈 GitHub Stats
 
