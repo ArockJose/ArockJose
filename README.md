@@ -18,7 +18,7 @@
 
 ## 🧰 Hands-On With These Tools
 ![JIRA](https://images.icon-icons.com/2699/PNG/96/atlassian_jira_logo_icon_170512.png)
-![X-Ray](https://logo.svgcdn.com/logos/xray-for-jira.png)
+![X-Ray](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.eazybi.com%2Feazybi%2Fdata-import%2Fdata-from-jira-apps%2Fxray-test-management&psig=AOvVaw0FnUnHCSlRq_m3oDIiJpAs&ust=1763913734464000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDoyO6QhpEDFQAAAAAdAAAAABAE)
 
 ## 📈 GitHub Stats
 
