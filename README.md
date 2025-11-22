@@ -17,8 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arock-jose-selvakumar-john-1b69b81aa/)
 
 # 🧰 Hands-On With These Tools
-![JIRA](<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/889bfafd-1639-4fe5-b709-28618219cfa0" />
-)
+![JIRA](https://images.icon-icons.com/2699/PNG/512/atlassian_jira_logo_icon_170512.png)
 
 ## 📈 GitHub Stats
 
