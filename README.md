@@ -25,10 +25,7 @@
 
 ## 👀 Visitor Counter
 
-![Visitors](https://hits.sh/github.com/ArockJose-username.svg?style=flat-square&label=Visitors)
-![Profile Views](https://komarev.com/ghpvc/?username=ArockJose&color=blue)
-![Visitors](https://profile-view-counter.vercel.app/your-github-ArockJose)
-
+![Profile Views](https://komarev.com/ghpvc/?username=ArockJose&color=green)
 
 <!--
 **ArockJose/ArockJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
