@@ -19,13 +19,13 @@
 ---
 ## 📈 GitHub Stats
 
-![Arock's GitHub stats](https://github-readme-stats.vercel.app/api?ArockJose=your-github-ArockJose&show_icons=true&theme=radical)  
+![Arock's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArockJose&show_icons=true&theme=radical)  
 
 ---
 
 ## 👀 Visitor Counter
 
-![Visitor Count](https://profile-counter.glitch.me/your-github-ArockJose/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ArockJose/count.svg)
 <!--
 **ArockJose/ArockJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
