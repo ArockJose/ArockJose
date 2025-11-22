@@ -17,10 +17,7 @@
 [<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bc950496-192f-4582-97db-20dce5897ce1" />
 ](https://www.linkedin.com/in/arock-jose-selvakumar-john-1b69b81aa?fbclid=PAAaZkOVcIN5NxcxJW4tu6SwZ7X_sAyey-egQR6tcNFJktTOIi2vyF-kE2Zt8)
 
-# Tools I Worked on:
-![JIRA](<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0a289f1c-b3fd-4072-8f70-d78a0f1caf6d" />)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arock-jose-selvakumar-john-1b69b81aa/)
 
 <!--
 **ArockJose/ArockJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
