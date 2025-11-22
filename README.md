@@ -18,7 +18,7 @@
 
 ## 🧰 Hands-On With These Tools
 ![JIRA](https://images.icon-icons.com/2699/PNG/96/atlassian_jira_logo_icon_170512.png)
-![X-ray](<img src="https://logo.svgcdn.com/logos/xray-for-jira.png" width="96" height="96" alt="Xray Logo">)
+![X-ray](https://www.google.com/imgres?q=X-Ray%20Test%20management%20tool%20with%2096x96&imgurl=https%3A%2F%2Fwww.testmanagement.com%2Fwp-content%2Fuploads%2F2022%2F02%2Fxray-1.png&imgrefurl=https%3A%2F%2Fwww.testmanagement.com%2Fxray&docid=tlJ_U0XvQgfP6M&tbnid=mPLPPLGflutxuM&vet=12ahUKEwi_mcmikoaRAxVkbvUHHfAxFX8QM3oECBYQAA..i&w=300&h=300&hcb=2&ved=2ahUKEwi_mcmikoaRAxVkbvUHHfAxFX8QM3oECBYQAA)
 
 ## 📈 GitHub Stats
 
