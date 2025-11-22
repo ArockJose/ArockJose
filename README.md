@@ -4,7 +4,7 @@
 
 #### I specialize in:
 
-#### ✔️ Manual Testing
+#### ✔️ Manual Testing<br />
 #### ✔️ Test Case Design & Execution
 #### ✔️ Defect Reporting & Tracking
 #### ✔️ Agile/Scrum
