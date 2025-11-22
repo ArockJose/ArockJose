@@ -16,6 +16,16 @@
 # 📫 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arock-jose-selvakumar-john-1b69b81aa/)
 
+---
+## 📈 GitHub Stats
+
+![Arock's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-ArockJose&show_icons=true&theme=radical)  
+
+---
+
+## 👀 Visitor Counter
+
+![Visitor Count](https://profile-counter.glitch.me/your-github-ArockJose/count.svg)
 <!--
 **ArockJose/ArockJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
