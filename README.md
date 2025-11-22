@@ -18,7 +18,7 @@
 
 ## 🧰 Hands-On With These Tools
 ![JIRA](https://images.icon-icons.com/2699/PNG/96/atlassian_jira_logo_icon_170512.png)
-![X-ray]
+![X-ray](http://getxray.app/?_gl=1*1qjbwda*_gcl_au*MTA0ODYxNDg0OC4xNzYzODI0MDc0*_ga*ODI0ODcyODQ2LjE3NjM4MjQwNzQ.*_ga_ZRJ4NEN9BB*czE3NjM4MjgzODMkbzIkZzAkdDE3NjM4MjgzODMkajYwJGwwJGgw*_ga_CHYXXR524X*czE3NjM4MjgzODMkbzIkZzAkdDE3NjM4MjgzODMkajYwJGwwJGgw)
 
 ## 📈 GitHub Stats
 
@@ -33,7 +33,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArockJose&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ArockJose?theme=light&font=Hahmlet&ext=activity)
+
 <!--
 **ArockJose/ArockJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
