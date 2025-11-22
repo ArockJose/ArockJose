@@ -16,12 +16,11 @@
 # 📫 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arock-jose-selvakumar-john-1b69b81aa/)
 
----
+
 ## 📈 GitHub Stats
 
 ![Arock's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArockJose&show_icons=true&theme=radical)  
 
----
 
 ## 👀 Visitor Counter
 
