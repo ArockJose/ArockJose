@@ -19,7 +19,7 @@
 ---
 ## 📈 GitHub Stats
 
-![Arock's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-ArockJose&show_icons=true&theme=radical)  
+![Arock's GitHub stats](https://github-readme-stats.vercel.app/api?ArockJose=your-github-ArockJose&show_icons=true&theme=radical)  
 
 ---
 
