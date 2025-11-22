@@ -25,7 +25,8 @@
 
 ## 👀 Visitor Counter
 
-![Visitor Count](https://profile-counter.glitch.me/ArockJose/count.svg)
+![Visitors](https://hits.sh/github.com/ArockJose-username.svg?style=flat-square&label=Visitors)
+
 <!--
 **ArockJose/ArockJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
