@@ -18,7 +18,7 @@
 
 ## 🧰 Hands-On With These Tools
 ![JIRA](https://images.icon-icons.com/2699/PNG/96/atlassian_jira_logo_icon_170512.png)
-![X-ray](https://www.google.com/imgres?q=X-Ray%20Test%20management%20tool%20with%2096x96&imgurl=https%3A%2F%2Fwww.testmanagement.com%2Fwp-content%2Fuploads%2F2022%2F02%2Fxray-1.png&imgrefurl=https%3A%2F%2Fwww.testmanagement.com%2Fxray&docid=tlJ_U0XvQgfP6M&tbnid=mPLPPLGflutxuM&vet=12ahUKEwi_mcmikoaRAxVkbvUHHfAxFX8QM3oECBYQAA..i&w=300&h=300&hcb=2&ved=2ahUKEwi_mcmikoaRAxVkbvUHHfAxFX8QM3oECBYQAA)
+![X-ray]
 
 ## 📈 GitHub Stats
 
@@ -29,6 +29,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArockJose&color=green)
 
+## GitHub Pulse Chart
+
+![GitHub Activity]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArockJose&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 <!--
 **ArockJose/ArockJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
