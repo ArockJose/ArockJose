@@ -18,7 +18,6 @@
 
 ## 🧰 Hands-On With These Tools
 ![JIRA](https://images.icon-icons.com/2699/PNG/96/atlassian_jira_logo_icon_170512.png)
-![X-ray](http://getxray.app/?_gl=1*1qjbwda*_gcl_au*MTA0ODYxNDg0OC4xNzYzODI0MDc0*_ga*ODI0ODcyODQ2LjE3NjM4MjQwNzQ.*_ga_ZRJ4NEN9BB*czE3NjM4MjgzODMkbzIkZzAkdDE3NjM4MjgzODMkajYwJGwwJGgw*_ga_CHYXXR524X*czE3NjM4MjgzODMkbzIkZzAkdDE3NjM4MjgzODMkajYwJGwwJGgw)
 
 ## 📈 GitHub Stats
 
