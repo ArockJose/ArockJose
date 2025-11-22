@@ -12,11 +12,8 @@
 
 #### 🎯 What I’m Currently Doing
 #### 📘 Improving my skills in Automation (Java + Selenium)<br />🔍 Practicing SQL and API testing<br/>💼 Preparing for interviews in QA / Testing roles
----
-# 📫 Connect With Me:
-[<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bc950496-192f-4582-97db-20dce5897ce1" />
-](https://www.linkedin.com/in/arock-jose-selvakumar-john-1b69b81aa?fbclid=PAAaZkOVcIN5NxcxJW4tu6SwZ7X_sAyey-egQR6tcNFJktTOIi2vyF-kE2Zt8)
 
+# 📫 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arock-jose-selvakumar-john-1b69b81aa/)
 
 <!--
